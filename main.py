@@ -20,7 +20,7 @@ def lck():
     _, frame = cam.read()
 
     cv2.imwrite("tmp.png", frame)
-    known_image = face_recognition.load_image_file("frame.png")
+    known_image = face_recognition.load_image_file("File path to your face picture")
     known_encoding = face_recognition.face_encodings(known_image)[0]
 
     unknown_image = face_recognition.load_image_file("tmp.png")
@@ -41,10 +41,7 @@ def chk(tmp):
 
         if entry:
             root.unbind("<Return>")
-    
-    elif passw.get() ==  "Admin1412":
-        root.unbind("<Return>")
-        print("Access Granted")
+            print("Access Granted")
 
 
 Entry(root, textvariable = passw, font = universal_font, show = "*", bg = FG).pack()
