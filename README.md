@@ -7,8 +7,8 @@ To use this program:
 
 To download the files:
   ```
-  git clone https://github.com/Hat1412/My_Chat.git
-  cd My_Chat
+  git clone https://github.com/Hat1412/Face-Lock.git
+  cd Face-Lock
   ```
 To run file:
   ```
@@ -17,3 +17,9 @@ To run file:
   #In Linux/MacOS
   python3 main.py
   ```
+
+<pre>
+Contact me at: </br>
+    Discord: <strong> Hat1412#9817 </strong> </br>
+    Reddit: <strong> u/Hat1412 </strong>
+</pre>
