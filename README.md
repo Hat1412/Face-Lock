@@ -17,7 +17,7 @@ To run file:
   #In Linux/MacOS
   python3 main.py
   ```
-
+For more details:
 <pre>
 Contact me at: </br>
     Discord: <strong> Hat1412#9817 </strong> </br>
