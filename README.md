@@ -20,10 +20,7 @@ To run file:
   
 Debug any errors:
   ```
-  pip install nltk
-  python
-  import nltk
-  nltk.download("stopwords")
+https://stackoverflow.com/questions/52332268/pip-install-face-recognition-giving-error
   ```
 For more details:
 <pre>
