@@ -17,6 +17,14 @@ To run file:
   #In Linux/MacOS
   python3 main.py
   ```
+  
+Debug any errors:
+  ```
+  pip install nltk
+  python
+  import nltk
+  nltk.download("stopwords")
+  ```
 For more details:
 <pre>
 Contact me at: </br>
